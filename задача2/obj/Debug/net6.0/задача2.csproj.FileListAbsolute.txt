@@ -1,0 +1,16 @@
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\Homework\задача2\obj\Debug\net6.0\задача2.GlobalUsings.g.cs
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\Homework\задача2\obj\Debug\net6.0\задача2.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\Homework\задача2\obj\Debug\net6.0\задача2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\Homework\задача2\obj\Debug\net6.0\задача2.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\Homework\задача2\obj\Debug\net6.0\задача2.AssemblyInfo.cs
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\Homework\задача2\obj\Debug\net6.0\задача2.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\Homework\задача2\bin\Debug\net6.0\задача2.exe
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\Homework\задача2\bin\Debug\net6.0\задача2.deps.json
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\Homework\задача2\bin\Debug\net6.0\задача2.runtimeconfig.json
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\Homework\задача2\bin\Debug\net6.0\задача2.dll
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\Homework\задача2\bin\Debug\net6.0\ref\задача2.dll
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\Homework\задача2\bin\Debug\net6.0\задача2.pdb
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\Homework\задача2\obj\Debug\net6.0\задача2.dll
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\Homework\задача2\obj\Debug\net6.0\ref\задача2.dll
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\Homework\задача2\obj\Debug\net6.0\задача2.pdb
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\Homework\задача2\obj\Debug\net6.0\задача2.genruntimeconfig.cache
